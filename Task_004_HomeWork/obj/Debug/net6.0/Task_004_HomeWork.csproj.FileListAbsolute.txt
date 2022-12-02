@@ -1,0 +1,15 @@
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\bin\Debug\net6.0\Task_004_HomeWork.exe
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\bin\Debug\net6.0\Task_004_HomeWork.deps.json
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\bin\Debug\net6.0\Task_004_HomeWork.runtimeconfig.json
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\bin\Debug\net6.0\Task_004_HomeWork.dll
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\bin\Debug\net6.0\Task_004_HomeWork.pdb
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\obj\Debug\net6.0\Task_004_HomeWork.csproj.AssemblyReference.cache
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\obj\Debug\net6.0\Task_004_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\obj\Debug\net6.0\Task_004_HomeWork.AssemblyInfoInputs.cache
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\obj\Debug\net6.0\Task_004_HomeWork.AssemblyInfo.cs
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\obj\Debug\net6.0\Task_004_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\obj\Debug\net6.0\Task_004_HomeWork.dll
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\obj\Debug\net6.0\refint\Task_004_HomeWork.dll
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\obj\Debug\net6.0\Task_004_HomeWork.pdb
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\obj\Debug\net6.0\Task_004_HomeWork.genruntimeconfig.cache
+C:\Users\Nadezhda\Desktop\Seminar_1\Task_004_HomeWork\obj\Debug\net6.0\ref\Task_004_HomeWork.dll
